@@ -1,6 +1,6 @@
 # Kinraidee Privacy Policy
 
-_Last updated: 1 November 2026_
+_Last updated: 3 November 2026_
 
 Kinraidee (กินอะไรดี) helps you decide what to eat. This policy explains what data the app uses, where it goes, and the choices you have. Kinraidee is in development; this policy will be updated before public launch.
 
@@ -30,13 +30,15 @@ When you are signed in, we keep these in your account on our server:
 - Your meal log
 - **With your health consent:** your body details (age, sex, weight, height) and your WHOOP connection. The WHOOP access tokens are encrypted, and only our server uses them, to get you short-lived access.
 
+Account data is kept until you delete your account; body details and the WHOOP connection are removed earlier if you turn off health features.
+
 When you first sign in on a device, what is on that device is added to your account. Signing out removes your data from that device; it stays in your account. Each account's data can be read only by that account.
 
 Not kept on our server: today's readings from Apple Health or WHOOP (calories burned, workouts, sleep, recovery, strain), and your location.
 
 ## Data sent to our server
 
-Our server runs on Supabase (Singapore region).
+Our server runs on Supabase in Singapore, outside Thailand.
 
 - **Nearby places:** to find restaurants, the app sends the dish search term, your location and your anonymous device ID to our server, which asks Google Places. We store only place IDs and coordinates for a rounded area of about 2 km, shared by all users, for at most 30 days. To prevent abuse, we count requests per device ID per day and keep these counts for 7 days.
 - **Place popularity:** when you tap Go or save a place, we store the place ID, the action, the date and your anonymous device ID, to rank popular places for everyone. Kept up to 90 days.
@@ -73,7 +75,7 @@ Under Thailand's Personal Data Protection Act (PDPA), you may access, correct, d
 
 ## Children
 
-Kinraidee is not intended for children under 13.
+Kinraidee is for people aged 20 or over, or under 20 with a parent's or guardian's consent. It is not intended for children under 13.
 
 ## Changes
 

@@ -1,6 +1,6 @@
 # Kinraidee Privacy Policy
 
-_Last updated: 3 November 2026_
+_Last updated: 6 November 2026_
 
 Kinraidee (กินอะไรดี) helps you decide what to eat. This policy explains what data the app uses, where it goes, and the choices you have. Kinraidee is in development; this policy will be updated before public launch.
 
@@ -61,7 +61,7 @@ Kinraidee is a wellness tool, not a medical device, and does not give medical ad
 - **Google and LINE sign-in:** if you choose to sign in, the provider's privacy policy applies to the sign-in step: https://policies.google.com/privacy and https://line.me/en/terms/policy/
 - **Unsplash:** dish photos load directly from Unsplash servers: https://unsplash.com/privacy
 - **WHOOP:** https://www.whoop.com/privacy/
-- **Grab and LINE MAN:** the Order button copies the dish name and opens their app or website. We send them no data.
+- **Grab and LINE MAN:** the Order button copies the dish name and opens their app. Without the LINE MAN app, it opens Wongnai's delivery website (LINE MAN's ordering site) searching for the dish. The link contains only the dish name; we send them no personal data.
 
 ## Your rights
 

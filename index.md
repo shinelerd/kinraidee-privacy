@@ -1,6 +1,6 @@
 # Kinraidee Privacy Policy
 
-_Last updated: 6 November 2026_
+_Last updated: 8 November 2026_
 
 Kinraidee (กินอะไรดี) helps you decide what to eat. This policy explains what data the app uses, where it goes, and the choices you have. Kinraidee is in development; this policy will be updated before public launch.
 
@@ -16,6 +16,7 @@ Kinraidee (กินอะไรดี) helps you decide what to eat. This polic
 
 - Language, onboarding answers (spice level, cuisines, allergies/diet, budget, goal)
 - Likes/skips, saved dishes and places, meal log (dishes, portions, nutrition estimates)
+- The dishes you chose to go to, order or cook, and your answers in "Help me choose" (for example soupy or dry), so suggestions learn from your past choices
 - Your chosen location or area
 - Health data read from Apple Health or WHOOP (see below), and optional body details you enter (age, sex, weight, height)
 - An anonymous random device ID (not linked to your name, email or phone)
@@ -27,6 +28,7 @@ Signing in is optional; the app works fully without it. You can sign in with Goo
 When you are signed in, we keep these in your account on our server:
 
 - Language, onboarding answers, meal reminders, likes/skips and saved dishes and places
+- The dishes you chose and your "Help me choose" answers (your pick history)
 - Your meal log
 - **With your health consent:** your body details (age, sex, weight, height) and your WHOOP connection. The WHOOP access tokens are encrypted, and only our server uses them, to get you short-lived access.
 
